@@ -1,0 +1,6 @@
+[submodule "assistente-backend"]
+	path = assistente-backend
+	url = https://github.com/gblzera/IA-assist-backend.git
+[submodule "assistente-frontend"]
+	path = assistente-frontend
+	url = https://github.com/gblzera/IA-assist-frontend.git
